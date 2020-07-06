@@ -5,10 +5,10 @@ Azure Databricks workshop
 
 V1.4 06/07/2020
 
-Liste des notebooks :<br>
+<b>Liste des notebooks :<br></b>
 <img src="https://github.com/retkowsky/images/blob/master/adbliste.jpg?raw=true"> <br>
 
-Documentation : <br>
+<b>Documentation : <br></b>
 Présentation https://azure.microsoft.com/fr-fr/services/databricks/<br>
 Documentation Azure Databricks : https://docs.microsoft.com/fr-fr/azure/databricks/<br>
 Documentation Azure ML : https://docs.microsoft.com/en-us/azure/machine-learning/<br>
