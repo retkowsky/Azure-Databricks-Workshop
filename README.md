@@ -6,12 +6,12 @@ Azure Databricks workshop
 V1.4 06/07/2020
 
 
-Documentation
-Présentation https://azure.microsoft.com/fr-fr/services/databricks/
-Documentation Azure Databricks : https://docs.microsoft.com/fr-fr/azure/databricks/
-Documentation Azure ML : https://docs.microsoft.com/en-us/azure/machine-learning/
-Github : https://github.com/Azure/MachineLearningNotebooks/tree/master/how-to-use-azureml/azure-databricks
+Documentation : <br>
+Présentation https://azure.microsoft.com/fr-fr/services/databricks/<br>
+Documentation Azure Databricks : https://docs.microsoft.com/fr-fr/azure/databricks/<br>
+Documentation Azure ML : https://docs.microsoft.com/en-us/azure/machine-learning/<br>
+Github : https://github.com/Azure/MachineLearningNotebooks/tree/master/how-to-use-azureml/azure-databricks<br>
 
 
-Serge Retkowsky | serge.retkowsky@microsoft.com | https://www.linkedin.com/in/serger/
+Serge Retkowsky | serge.retkowsky@microsoft.com | https://www.linkedin.com/in/serger/<br>
 
