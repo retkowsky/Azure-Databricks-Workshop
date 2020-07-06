@@ -5,6 +5,7 @@ Azure Databricks workshop
 
 V1.4 06/07/2020
 
+Liste des notebooks :<br>
 <img src="https://github.com/retkowsky/images/blob/master/adbliste.jpg?raw=true"> <br>
 
 Documentation : <br>
