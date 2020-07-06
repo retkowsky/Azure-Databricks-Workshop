@@ -14,6 +14,6 @@ Documentation Azure Databricks : https://docs.microsoft.com/fr-fr/azure/databric
 Documentation Azure ML : https://docs.microsoft.com/en-us/azure/machine-learning/<br>
 Github : https://github.com/Azure/MachineLearningNotebooks/tree/master/how-to-use-azureml/azure-databricks<br>
 
-
+<br>
 Serge Retkowsky | serge.retkowsky@microsoft.com | https://www.linkedin.com/in/serger/<br>
 
