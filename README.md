@@ -5,6 +5,7 @@ Azure Databricks workshop
 
 V1.4 06/07/2020
 
+<img src="https://github.com/retkowsky/images/blob/master/adbliste.jpg?raw=true"> <br>
 
 Documentation : <br>
 Présentation https://azure.microsoft.com/fr-fr/services/databricks/<br>
